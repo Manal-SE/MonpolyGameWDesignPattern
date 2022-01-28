@@ -1,4 +1,4 @@
-
+// hello world it manal
 import java.util.Scanner;
 
 class Command extends Cell{
